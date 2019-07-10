@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="103" column="31" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+            <state relative-caret-position="2375">
+              <caret line="125" column="52" selection-start-line="125" selection-start-column="52" selection-end-line="125" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -105,6 +105,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Octocat/grid-chessboard/chess.css" />
@@ -134,12 +135,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562750932151</updated>
       <workItem from="1562750933476" duration="1644000" />
-      <workItem from="1562752959043" duration="10531000" />
+      <workItem from="1562752959043" duration="11702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12175000" />
+    <option name="totallyTimeSpent" value="13346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1920" height="1005" extended-state="6" />
@@ -191,8 +192,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="103" column="31" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+        <state relative-caret-position="2375">
+          <caret line="125" column="52" selection-start-line="125" selection-start-column="52" selection-end-line="125" selection-end-column="52" />
         </state>
       </provider>
     </entry>
